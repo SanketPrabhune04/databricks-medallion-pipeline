@@ -231,6 +231,6 @@ retail-sales-pipeline/
 ---
 
 <p align="center">
-  <i>Built as an end-to-end data engineering learning project.</i><br>
+  <i>Built as an end-to-end data engineering project.</i><br>
   <b>Bronze → Silver → Gold ⭐</b>
 </p>
